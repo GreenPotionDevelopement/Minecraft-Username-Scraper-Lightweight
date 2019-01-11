@@ -1,0 +1,10 @@
+C:\Users\Elev\source\repos\Minecraft Username Scraper Lightweight\Minecraft Username Scraper Lightweight\bin\Debug\Minecraft Username Scraper Lightweight.exe.config
+C:\Users\Elev\source\repos\Minecraft Username Scraper Lightweight\Minecraft Username Scraper Lightweight\bin\Debug\Minecraft Username Scraper Lightweight.exe
+C:\Users\Elev\source\repos\Minecraft Username Scraper Lightweight\Minecraft Username Scraper Lightweight\bin\Debug\Minecraft Username Scraper Lightweight.pdb
+C:\Users\Elev\source\repos\Minecraft Username Scraper Lightweight\Minecraft Username Scraper Lightweight\obj\Debug\Minecraft Username Scraper Lightweight.csprojAssemblyReference.cache
+C:\Users\Elev\source\repos\Minecraft Username Scraper Lightweight\Minecraft Username Scraper Lightweight\obj\Debug\Minecraft_Username_Scraper_Lightweight.Form1.resources
+C:\Users\Elev\source\repos\Minecraft Username Scraper Lightweight\Minecraft Username Scraper Lightweight\obj\Debug\Minecraft_Username_Scraper_Lightweight.Properties.Resources.resources
+C:\Users\Elev\source\repos\Minecraft Username Scraper Lightweight\Minecraft Username Scraper Lightweight\obj\Debug\Minecraft Username Scraper Lightweight.csproj.GenerateResource.cache
+C:\Users\Elev\source\repos\Minecraft Username Scraper Lightweight\Minecraft Username Scraper Lightweight\obj\Debug\Minecraft Username Scraper Lightweight.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Minecraft Username Scraper Lightweight\Minecraft Username Scraper Lightweight\obj\Debug\Minecraft Username Scraper Lightweight.exe
+C:\Users\Elev\source\repos\Minecraft Username Scraper Lightweight\Minecraft Username Scraper Lightweight\obj\Debug\Minecraft Username Scraper Lightweight.pdb
